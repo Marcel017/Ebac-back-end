@@ -1,0 +1,7 @@
+Programação Procedural (PP):
+
+"É um paradigma focado em funções e procedimentos. O código é executado sequencialmente, passo a passo, como uma receita de bolo. Os dados ficam separados das funções, o que pode gerar problemas de segurança e organização em sistemas grandes."
+
+Programação Orientada a Objetos (POO):
+
+"É um paradigma baseado em 'Objetos' que interagem entre si. Agrupamos dados (atributos) e comportamentos (métodos) dentro de Classes. Isso traz segurança (encapsulamento), organização e facil

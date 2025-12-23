@@ -1,0 +1,28 @@
+ALGORITMO Rotina_Matinal_Dev
+INICIO
+    Acordar;
+    Desligar_Despertador;
+    Levantar_da_Cama;
+
+    // Decisão simples (O "if")
+    SE (tiver_cafe_pronto) ENTAO
+        Beber_Cafe;
+    SENAO
+        Fazer_Cafe;
+        Beber_Cafe;
+    FIM_SE
+
+    Escovar_Dentes;
+    Tomar_Banho_Gelado; // Opcional do Biohacker kkkk
+    
+    Ligar_Computador;
+    Abrir_VS_Code;
+    
+    // Loop (O "while") - Estudar até doer
+    ENQUANTO (estiver_acordado) FACA
+        Estudar_Java;
+        Codar_CRM;
+    FIM_ENQUANTO
+
+    Dormir;
+FIM
