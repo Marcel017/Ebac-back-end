@@ -20,10 +20,12 @@ public class Main {
 
         double media = (nota1 + nota2 + nota3 + nota4) /4;
 
-        if (media > 5) {
+        if (media >= 7) {
             System.out.println("RESULTADO: Aprovado! ");
+        } else if (media >=5){
+            System.out.println("RESULTADO: Recuperação. Estude amis! ");
         } else {
-            System.out.println("RESULTADO: Reprovado! ");
+            System.out.println("RESULTADO: Reprovado.");
         }
 
         leitor.close();
