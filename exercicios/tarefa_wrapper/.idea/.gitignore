@@ -8,8 +8,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-discord.xml
-misc.xml
-modules.xml
-vcs.xml
-workspace.xml
+
+
+
+

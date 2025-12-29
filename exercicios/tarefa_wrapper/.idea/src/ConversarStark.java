@@ -21,6 +21,5 @@ public class ConversarStark {
         System.out.println("Valor após Casting (Double): " + valorConvertido);
 
         leitor.close();
-
     }
 }
